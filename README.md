@@ -22,5 +22,5 @@ This website serves as a digital resume and professional portfolio for *Anwin Sy
 - CSS
 
 ## SCREENSHOTS
-
+![image alt](https://github.com/anwinsyras/OIBSIP_domain_task2/blob/3003108a59d6f6922fb9477597c486817f0fede1/Screenshot%202025-07-12%20214737.png)
 
