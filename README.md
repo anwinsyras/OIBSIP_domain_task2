@@ -24,3 +24,4 @@ This website serves as a digital resume and professional portfolio for *Anwin Sy
 ## SCREENSHOTS
 ![image alt](https://github.com/anwinsyras/OIBSIP_domain_task2/blob/3003108a59d6f6922fb9477597c486817f0fede1/Screenshot%202025-07-12%20214737.png)
 ![image alt](https://github.com/anwinsyras/OIBSIP_domain_task2/blob/b4c0bbed2acc8a3f02b43b7d6a6a0542ebe4083c/Screenshot%202025-07-12%20214755.png)
+![image alt](https://github.com/anwinsyras/OIBSIP_domain_task2/blob/a132b33c673f2b8057f7c54e6aae5d8c996c74a6/Screenshot%202025-07-12%20214811.png)
