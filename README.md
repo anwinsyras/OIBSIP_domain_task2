@@ -32,12 +32,9 @@ This website serves as a digital resume and professional portfolio for *Anwin Sy
 -Showcased featured tour packages with engaging visuals, descriptions, and pricing.
 -Implemented a contact form to collect user queries and feedback.
 ## Steps
-1. Create a Folder
-Make a new folder on your computer where all your website files will be saved.
-2. Use a Code Editor
-Open a simple code editor like Notepad or VS Code.
-3. Create a Web Page
-Create a new file and name it index.html.
+1.Make a new folder on your computer where all your website files will be saved.
+2. Use visual studio code Editor
+3. Create a Webpage and create a new file and name it index.html.
 In this file, you will add your name, photo, skills, education, and project details.
 4. Add Sections
 Include the following in your website:
@@ -47,19 +44,14 @@ Skills – list of your programming or technical skills
 Education – your qualifications (like MCA, BCA)
 Projects – short info about sample works
 Contact – your email, phone number, LinkedIn
-5. Make It Look Good
-Create a second file called style.css to style the layout, colors, and fonts.
-Link this style file with your web page.
+5.Create a second file called style.css to style the layout, colors, and fonts.
+Link this style file with your web pag
 6. Preview Your Website
 Double-click the index.html file and it will open in your browser.
 You can now see your portfolio.
 7. Edit and Improve
 Check if all details are correct and look neat.
 Adjust layout or text as needed.
-8. Optional: Upload Online
-Create a GitHub account.
-Upload your folder to a GitHub repository.
-Use GitHub Pages to make your site live on the internet.
 
 ## SCREENSHOTS
 ![image alt](https://github.com/anwinsyras/OIBSIP_domain_task2/blob/3003108a59d6f6922fb9477597c486817f0fede1/Screenshot%202025-07-12%20214737.png)
