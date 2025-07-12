@@ -2,11 +2,17 @@
 
 Welcome to my personal portfolio website! This project showcases my background, skills, and sample work as an aspiring developer and programmer.
 
-## 📌 Description
+## Description
 
 This website serves as a digital resume and professional portfolio for *Anwin Syras*, providing an overview of my education, technical skills, and featured projects. It is designed to give potential employers or collaborators an easy way to learn more about me.
+## Objectives
 
-## 🚀 Features
+1. Introduce Myself – Share who I am, my background, and interests.
+2. Showcase My Skills – Highlight the programming languages and tools I know.
+3. Display My Education – Provide details of my academic qualifications.
+4. Present My Projects – Give an overview of sample projects I have worked on.
+5. Provide Contact Info – Make it easy for others to connect with me (email, phone).
+##  Features
 
 - *About Me*: Brief introduction and career goals.
 - *Skills*: Programming languages and web technologies I am proficient in.
@@ -16,7 +22,7 @@ This website serves as a digital resume and professional portfolio for *Anwin Sy
   - *Two-Factor Data Security Mechanism*: Overview of 2FA for securing access.
 - *Contact*: Email, phone, and LinkedIn details for getting in touch.
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - HTML
 - CSS
